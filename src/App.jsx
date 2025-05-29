@@ -10,7 +10,7 @@ import Contact from './Components/Contact/Contact.jsx';
 import Footer from './Components/Footer/Footer.jsx';
 import VideoPlayer from './Components/VideoPlayer/VideoPlayer.jsx';
 const App = () => {
-  const [playState, setPlayState]=useState(flase);
+  const [playState, setPlayState]=useState(false);
 
 
   return (
